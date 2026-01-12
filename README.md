@@ -2,6 +2,8 @@
 
 # Image-Restoration
 
+---
+
 ## Overview
 본 프로젝트는 **Wiener Filtering**을 이용하여  
 블러 및 Gaussian noise가 포함된 영상을 주파수 영역에서 복원하는 과제입니다.
@@ -34,9 +36,3 @@ Wiener filter 식은 다음과 같습니다.
 - Language: C++
 - Library: OpenCV
 
-### Constraints (Assignment Rules)
-- 모든 영상은 `CV_32F`로 변환 후 처리
-- DFT / IDFT 직접 수행
-- Kernel은 합이 1이 되도록 정규화
-- `mulSpectrum`, `divSpectrum` 함수 사용 가능
-- OpenCV의 고급 복원 함수 사용 금지
