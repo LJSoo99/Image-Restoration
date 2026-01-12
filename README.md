@@ -1,3 +1,3 @@
-<img width="800" height="654" alt="11화면 캡처 2026-01-12 201616" src="https://github.com/user-attachments/assets/ae93f3c1-2061-4d76-8164-e40248ffd5ee" />
+<img width="500" height="408" alt="22화면 캡처 2026-01-12 201616" src="https://github.com/user-attachments/assets/05a851e1-33e4-46df-b1b4-cac8fe45ff53" />
 
 # Image-Restoration
