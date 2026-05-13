@@ -9,7 +9,7 @@ Gaussian noise가 추가된 영상이며,
 단순 inverse filtering을 적용할 경우 잡음이 과도하게 증폭되는 문제가 발생합니다.
 
 본 과제에서는 **Wiener filtering**을 직접 구현하여  
-책 표지의 제목을 식별할 수 있는 수준까지 영상을 복원하는 것을 목표로 합니다.
+책 표지의 제목을 식별할 수 있는 수준까지 영상을 복원하는 것이 목표입니다.
 
 ## Algorithm
 Degradation model은 다음과 같습니다.
