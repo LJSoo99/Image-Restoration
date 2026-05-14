@@ -2,13 +2,13 @@
 
 # Image-Restoration
 본 프로젝트는 **Wiener Filtering**을 이용하여  
-블러 및 Gaussian noise가 포함된 영상을 주파수 영역에서 복원하는 과제입니다.
+블러 및 Gaussian noise가 포함된 영상을 주파수 영역에서 복원을 합니다.
 
 입력 영상(`deg.png`)은 주어진 blur kernel(`ker.png`)로 degrade된 후  
 Gaussian noise가 추가된 영상이며,  
 단순 inverse filtering을 적용할 경우 잡음이 과도하게 증폭되는 문제가 발생합니다.
 
-본 과제에서는 **Wiener filtering**을 직접 구현하여  
+이에 **Wiener filtering**을 직접 구현하여  
 책 표지의 제목을 식별할 수 있는 수준까지 영상을 복원하는 것이 목표입니다.
 
 ## Algorithm
